@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ml.fifty9.poolmonitor.com.ingidear.poolmonitor.ParentActivity">
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="Settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/change_address"
+        android:orderInCategory="200"
+        android:title="Change Address"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/about"
+        android:orderInCategory="200"
+        android:title="About"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/refresh"
+        android:title="Refresh"
+        android:icon="@drawable/ic_refresh_white_48dp"
+        android:iconTint="#ffffff"
+        app:showAsAction="always" />
+
+</menu>

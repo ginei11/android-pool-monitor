@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Turtle Pool Monitor</string>
+    <string name="title_activity_parent">Monitor</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="null_value_string">0</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hash_chart_description">Hashes Submitted</string>
+
+    <string name="carlos_trtl_address">TRTLuxN8PZPQmB6DAKmQXSPJsBER9vbu8ZhKR5pLNocaTVTSzPcRAxhekykPJ52M14ZVmGKjeu9JKVMZgit3ZVzhVg9t5XWBdKD</string>
+</resources>

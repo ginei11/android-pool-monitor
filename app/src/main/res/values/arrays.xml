@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+            <item>cryptohispano.net</item>
+            <item>Z-pool.com</item>
+            <item>Eu.turtlepool.space</item>
+            <item>Hk.turtlepool.space</item>
+            <item>Us.turtlepool.space</item>
+            <item>Ny.minetrtl.us</item>
+            <item>Trtl.radicaldelta.org</item>
+            <item>Auspool.turtleco.in</item>
+            <!--<item>Xk.is</item>-->
+            <!--<item>Turtlecoinpool.Ddns.Net</item>-->
+            <item>Pool.Turtleco.In</item>
+            <item>Trtlpool.Ninja</item>
+            <item>Pool.Trtl.Me</item>
+            <item>Cryptoknight.cc</item>
+            <item>Trtl.Ninja</item>
+            <item>Atpool.party</item>
+            <!--<item>Etnchina.io</item>-->
+            <item>Sewer.ninja</item>
+            <item>Turtlecoinpool.ml</item>
+            <item>Unipool.pro</item>
+            <item>Tortugamor.cf</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>http://trtl.cryptohispano.net:8117</item>
+        <item>http://z-pool.com/api/</item>
+        <item>http://eu.turtlepool.space/api/</item>
+        <item>http://hk.turtlepool.space/api/</item>
+        <item>http://us.turtlepool.space/api/</item>
+        <item>http://ny.minetrtl.us:8117/</item>
+        <item>http://trtl.radicaldelta.org:8117/</item>
+        <item>http://auspool.turtleco.in/api/</item>
+        <!--<item>https://xk.is/api/</item>-->
+        <!--<item>http://turtlecoinpool.ddns.net:8127/</item>-->
+        <item>http://us.turtlepool.space/api/</item>
+        <item>http://trtlpool.ninja/api/</item>
+        <item>http://pool.trtl.me:8117/</item>
+        <item>http://78.46.85.142:6229/</item>
+        <item>https://trtl.ninja/api/</item>
+        <item>http://turtle-eu.atpool.party:8117/</item>
+        <!--<item>http://118.31.18.78:8117/</item>-->
+        <item>http://sewer.ninja:8117/</item>
+        <item>https://turtlecoinpool.ml:8443/</item>
+        <item>https://pool.turtlecoin.fr:8117/</item>
+        <item>http://tortugamor.cf:8117/</item>
+    </string-array>
+
+    <!--Trtl.Mine2gether.Com → Mine2gether Has Incompatible API-->
+
+    <string-array name="turtle_coin_logo_svg">
+        <item>M243 299C218 299 219 299 207 278 200 267 195 255 187 245 182 237 183 229 187 222 196 207 205 193 213 178 217 172 220 169 228 169 237 169 275 169 284 169 291 169 295 172 299 178 307 193 316 207 324 222 329 229 330 237 324 245 317 255 311 267 305 278 293 299 293 299 269 299 265 299 261 299 257 299 257 299 255 299 255 299 251 299 247 299 243 299ZM344 214C335 197 326 181 317 164 314 160 314 156 317 151 328 132 339 113 349 94 352 89 354 88 359 91 380 102 400 113 421 124 428 127 432 133 431 141 428 167 426 192 422 218 422 219 419 222 417 222 404 222 366 223 360 223 352 224 348 221 344 214ZM297 140C294 145 290 146 285 146 280 146 232 146 227 146 222 146 218 145 215 140 205 121 194 102 183 83 180 79 180 76 185 74 206 63 227 51 248 40 251 39 253 38 256 38L256 38 256 38 256 38 256 38C259 38 261 39 264 40 285 51 306 62 327 74 332 76 332 79 329 83 318 102 307 121 297 140ZM316 305C326 288 335 270 345 253 347 250 351 247 354 247 374 246 394 246 415 246 403 295 381 338 353 380 340 357 327 336 315 315 314 312 315 308 316 305ZM91 124C112 113 132 102 153 91 158 88 160 89 163 94 173 113 184 132 195 151 198 156 198 160 195 164 186 181 177 197 168 214 164 221 159 224 152 223 146 222 108 222 95 222 93 222 90 219 90 217 86 192 84 166 81 141 80 133 83 127 91 124ZM158 247C161 247 165 250 167 253 177 270 186 288 195 305 197 308 198 312 196 314 185 336 172 357 159 380 130 338 109 295 97 246 118 246 138 246 158 247ZM215 328C218 324 221 322 226 322 236 322 276 322 286 322 291 322 294 324 297 328 309 350 321 372 334 394 337 399 336 402 333 406 313 429 291 450 267 469 263 472 259 474 256 474L256 474 256 474 256 474 256 474C252 474 249 472 244 469 220 450 199 429 179 406 175 402 174 399 177 394 190 372 203 350 215 328Z</item>
+    </string-array>
+
+    <integer-array name="turtle_coin_logo_color">
+        <item>@color/colorPrimary</item>
+    </integer-array>
+</resources>
